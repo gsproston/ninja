@@ -1,3 +1,7 @@
+# Author: George Sproston
+# Updated: 2017/09/01
+# Simple combat game
+
 import sys, pygame, math
 
 width = 640
